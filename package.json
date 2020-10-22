@@ -1,0 +1,47 @@
+{
+  "_from": "Canvas2SaveImage",
+  "_inBundle": false,
+  "_location": "/Canvas2SaveImage",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "Canvas2SaveImage",
+    "name": "Canvas2SaveImage",
+    "escapedName": "Canvas2SaveImage",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "Canvas2SaveImage",
+  "author": "Preety Gupta",
+  "bugs": {
+    "url": "https://github.com/preetygupta728/Canvas2SaveImage/issues"
+  },
+  "deprecated": false,
+  "description": "Canvas2Image cannot be imported as a module and seems to no longer be maintained.",
+  "homepage": "https://github.com/preetygupta728/Canvas2SaveImage#readme",
+  "keywords": [
+    "wrapper",
+    "Canvas2SaveImage",
+    "ReactJs",
+    "es6",
+    "Save With File Name",
+    "All Formats(PNG,JPG,JPEG)"
+  ],
+  "license": "GPL-3.0",
+  "main": "Canvas2SaveImage.js",
+  "name": "canvas-to-png",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preetygupta728/Canvas2SaveImage.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
